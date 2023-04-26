@@ -6,5 +6,6 @@ public class Main {
         System.out.println("two!you are roubianqi!");
         System.out.println("git --- hot-fix");
         System.out.println("修改");
+         System.out.println("git --- hot-fix");
     }
 }
